@@ -21,8 +21,20 @@
 <b>why</b></br>
 relax</br>
 <b>how</b></br>
-- a main character inthe middle and can move to both left and right corner of the phone while we swipe
-- build barriers
-- when characters hit the car he/she die
-- points  
+<ol>
+  <li>a main character inthe middle and can move to both left and right corner of the phone while we swipe</li>
+  <li>build barriers</li>
+  <li>when characters hit the car he/she die</li>
+  <li>points</li>  
+</ol>
+<h2>third</h2>
+<b>what</b></br>
+vector database</br>
+<b>why</b></br>
+sb need it & quiker than graph?</br>
+<b>how</b>
+pass
+
+
+
 
