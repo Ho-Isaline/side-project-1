@@ -22,7 +22,7 @@ game like
 relax</br>
 <b>how</b></br>
 <ol>
-  <li>a main character inthe middle and can move to both left and right corner of the phone while we swipe</li>
+  <li>a main character in the middle and can move to both left and right corner of the phone while we swipe</li>
   <li>build barriers</li>
   <li>when characters hit the car he/she die</li>
   <li>points</li>  
