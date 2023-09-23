@@ -32,7 +32,7 @@ relax</br>
 vector database</br>
 <b>why</b></br>
 sb need it & quiker than graph?</br>
-<b>how</b>
+<b>how</b></br>
 pass
 
 
