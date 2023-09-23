@@ -15,9 +15,10 @@
     <li>sixth -> upload ( maybe build a website?</li>
   </ol>
 <h2>second option</h2>
-<b>game like ![image](https://github.com/Ho-Isaline/side-project-1/assets/61371937/41d3abaa-52b1-45e8-bc0e-94a222ddefc7)
+<b>game like ![image](https://github.com/Ho-Isaline/side-project-1/assets/61371937/9b6268ff-16cf-4730-9c99-cf561273b8a3)
 </b></br>
 <b>why</b></br>
+relax</br>
 
   
 </p>
