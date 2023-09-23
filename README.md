@@ -1,7 +1,7 @@
 # side-project-1
 <h1>easy first side project start at 2023/9</h1>
   <h2>first option</h2>
-  <b>what</b>
+  <b>what:</b>
   an automatic captioner
   <b>why</b></br>
   tired of typing all the time</br>
