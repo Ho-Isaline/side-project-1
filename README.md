@@ -1,6 +1,7 @@
 # side-project-1
 <h1>easy first side project start at 2023/9</h1>
 <p>
+  <h1>first option</h1>
   <b>what</b></br>
   an automatic captioner</br>
   <b>why</b></br>
@@ -15,3 +16,9 @@
     <li>sixth -> upload ( maybe build a website?</li>
   </ol>
 </p>
+<p>
+<h2>second option</h2>
+
+  
+</p>
+
