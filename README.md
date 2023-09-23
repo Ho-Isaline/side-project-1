@@ -17,11 +17,13 @@
 <h2>second option</h2>
 <b>game like 
 ![alt text](https://github.com/Ho-Isaline/side-project-1/assets/61371937/05a9274a-d4c2-451a-a0b4-77799c7356ce)
-
 </b></br>
 <b>why</b></br>
 relax</br>
-
-  
+<b>how</b>>/br>
+- a main character inthe middle and can move to both left and right corner of the phone while we swipe
+- build barriers
+-when characters hit the car he/she die
+-points  
 </p>
 
