@@ -15,9 +15,9 @@
     <li>sixth -> upload ( maybe build a website?</li>
   </ol>
 <h2>second option</h2>
-<b>game like 
-![alt text](https://github.com/Ho-Isaline/side-project-1/assets/61371937/05a9274a-d4c2-451a-a0b4-77799c7356ce)
-</b></br>
+<b>what</b></br>
+game like 
+![alt text](https://github.com/Ho-Isaline/side-project-1/assets/61371937/05a9274a-d4c2-451a-a0b4-77799c7356ce)</br>
 <b>why</b></br>
 relax</br>
 <b>how</b></br>
