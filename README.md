@@ -16,7 +16,8 @@
   </ol>
 <h2>second option</h2>
 <b>game like 
-![alt text](https://github.com/Ho-Isaline/side-project-1/assets/61371937/2ed53b2f-ad78-475f-8190-809a3dd9b927)
+![image](https://github.com/Ho-Isaline/side-project-1/assets/61371937/05a9274a-d4c2-451a-a0b4-77799c7356ce)
+
 </b></br>
 <b>why</b></br>
 relax</br>
