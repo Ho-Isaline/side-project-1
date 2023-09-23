@@ -1,7 +1,7 @@
 # side-project-1
 <h1>easy first side project start at 2023/9</h1>
 <p>
-  <h1>first option</h1>
+  <h2>first option</h2>
   <b>what</b></br>
   an automatic captioner</br>
   <b>why</b></br>
@@ -18,6 +18,9 @@
 </p>
 <p>
 <h2>second option</h2>
+<b>game like ![image](https://github.com/Ho-Isaline/side-project-1/assets/61371937/41d3abaa-52b1-45e8-bc0e-94a222ddefc7)
+</b></br>
+<b>why</b></br>
 
   
 </p>
