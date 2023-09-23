@@ -16,7 +16,7 @@
   </ol>
 <h2>second option</h2>
 <b>game like 
-![image](https://github.com/Ho-Isaline/side-project-1/assets/61371937/05a9274a-d4c2-451a-a0b4-77799c7356ce)
+![alt text](https://github.com/Ho-Isaline/side-project-1/assets/61371937/05a9274a-d4c2-451a-a0b4-77799c7356ce)
 
 </b></br>
 <b>why</b></br>
