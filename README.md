@@ -13,6 +13,10 @@
     <li>forth -> combine to sentenses</li>
     <li>fifth -> fill in the correct space</li>
     <li>sixth -> upload ( maybe build a website?</li>
+    ->輸出音頻
+    ->因轉文字
+    ->中文斷詞的套件function 
+    ->影片測試
   </ol>
 <h2>second option</h2>
 <b>what</b></br>
